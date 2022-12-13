@@ -1,0 +1,3 @@
+colas:
+	python manage.py collectstatic 
+
